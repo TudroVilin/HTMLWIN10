@@ -1,0 +1,8 @@
+table {
+    border-width:20mm;
+    border-color: gray;
+}
+image {
+    width: 100px;
+    height: 100px;
+}

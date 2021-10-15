@@ -1,0 +1,16 @@
+img {
+    height: 100;
+    width: 100;
+}
+h1 {
+    background-color: hotpink;
+    font-style: italic;
+}
+h3 {
+    color:black;
+    background-color: red;
+    font-size: medium;
+}
+h2 {
+    background-color: gold;
+}
